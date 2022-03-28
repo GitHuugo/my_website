@@ -2,3 +2,4 @@
 
 ## This is my personal website!
 ### I will soon work more actively on my site and add a to-do list on this github.
+### This repository currently only contains a homepage with basic html/css.
