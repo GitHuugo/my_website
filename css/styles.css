@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: #062C30;
+    text-align: center;
+}
+
+.top-container {
+    margin: 0;
+    background-color: #062C30;
+    padding: 15%;
+    text-align: center;
+    position: relative;
+}
+  
+.top-text {
+    margin: 2 0 0 0;
+    font-family: 'Fredoka', sans-serif;
+    color: #EEEEEE
+}
+.hm {
+    font-size: 562%;
+    color: white;
+    font-family: 'Secular One', sans-serif;
+    margin: 0;
+}
+  
+  .hm-sub {
+    font-size: 200%;
+    font-family: 'Fredoka', sans-serif;
+    color: #E2D784;
+    margin: 0;
+}
+  
+.top-cloud {
+    width: 7%;
+    position: absolute;
+    top: 23%;
+    right: 23%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    width: 7%;
+    left: 21%;
+    bottom: 21%;
+}
+
+.linkedin-logo {
+    width: 5%;
+    margin-right: 4%;
+}
+
+.mail-logo {
+    width: 5%;
+    margin: 0 4% 0 4%;
+}
+
+.github-logo {
+    width: 5%;
+    margin-left: 4%;
+}
+
+.skills {
+    font-size: 200%;
+    font-family: 'Fredoka', sans-serif;
+    color: #05595B;
+    margin: 0 0 3% 0;
+}
