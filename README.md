@@ -2,6 +2,7 @@
 
 ## This is my personal website!
 #### This repository currently only contains a homepage with basic html/css.
+![Preview](./images/read-me-preview.png)
 ## TO-DO LIST:
 * make: the website responsive
 * replace: "mailto" (mail.png) by my CV (homepage)
