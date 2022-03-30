@@ -1,6 +1,6 @@
 # <a href="http://hugo-murat.com/">my_website<a>
 
-## This is my personal website!
+## This is my personal website !
 #### This repository currently only contains a homepage with basic html/css.
 ![Preview](./images/read-me-preview.png)
 ## TO-DO LIST:
